@@ -1,0 +1,48 @@
+# !/bin/bash
+
+# Description: Setup Wordpress on linux machine
+# Author: Fabrice foka
+# Date: Jan 2021
+
+
+echo "which OS do you want to use?"
+echo "choose one from: centos redhat fedora ubuntu debian"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
